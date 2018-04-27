@@ -34,6 +34,5 @@ public class SSOConfig {
     public Filter SSOFilter() {
         return new SSOFilter();
     }
-
-
+    
 }
